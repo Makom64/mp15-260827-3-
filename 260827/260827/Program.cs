@@ -17,8 +17,8 @@ public class Program
         Console.WriteLine("안녕하세요. 3조 조장 노승훈입니다.");
 
     }
-    public void Wkdwnsk2
+    public static void Wkdwnsk2()
     {
-        System.Console.WriteLine("노준철 / 게임을 좋아합니다.");
+        Console.WriteLine("노준철 / 게임을 좋아합니다.");
     }
 }
