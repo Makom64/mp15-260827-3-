@@ -7,6 +7,7 @@ public class Program
         Console.WriteLine("=== 3조 팀원 소개 ===");
        // 아래로 노승훈, 노준철 소개 '호출' 추가하기
         IntroMakom64();
+        IntroMakom64();
         Wkdwnsk2();
       
         Console.WriteLine("=== 소개 끝 ===");
